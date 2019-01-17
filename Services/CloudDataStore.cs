@@ -79,5 +79,10 @@ namespace VSACXamarin
 
             return response.IsSuccessStatusCode;
         }
+
+        void IDisposable.Dispose()
+        {
+            throw new NotImplementedException();
+        }
     }
 }
