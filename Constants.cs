@@ -3,6 +3,6 @@ namespace VSACXamarin
 {
     public class Constants
     {
-        public const string VSACEnv = "[PLATFORM]";
+        //public const string VSACEnv = "[PLATFORM]";
     }
 }
