@@ -1,0 +1,11 @@
+/Users/jeom/Documents/GitHub/XamarinEnvDemo/Droid/obj/Debug/VSACXamarin.Droid.nuget.stamp
+/Users/jeom/Documents/GitHub/XamarinEnvDemo/Droid/obj/Debug/MonoAndroid,Version=v8.0.AssemblyAttributes.cs
+/Users/jeom/Documents/GitHub/XamarinEnvDemo/Droid/obj/Debug/VSACXamarin.Droid.csprojAssemblyReference.cache
+/Users/jeom/Documents/GitHub/XamarinEnvDemo/Droid/obj/Debug/libraryimports.cache.stamp
+/Users/jeom/Documents/GitHub/XamarinEnvDemo/Droid/obj/Debug/res.flag
+/Users/jeom/Documents/GitHub/XamarinEnvDemo/Droid/obj/Debug/VSACXamarin.Droid.csproj.CoreCompileInputs.cache
+/Users/jeom/Documents/GitHub/XamarinEnvDemo/Droid/obj/Debug/VSACXamarin.Droid.Views.AboutPage.xaml.g.cs
+/Users/jeom/Documents/GitHub/XamarinEnvDemo/Droid/obj/Debug/VSACXamarin.Droid.Views.ItemDetailPage.xaml.g.cs
+/Users/jeom/Documents/GitHub/XamarinEnvDemo/Droid/obj/Debug/VSACXamarin.Droid.Views.ItemsPage.xaml.g.cs
+/Users/jeom/Documents/GitHub/XamarinEnvDemo/Droid/obj/Debug/VSACXamarin.Droid.Views.NewItemPage.xaml.g.cs
+/Users/jeom/Documents/GitHub/XamarinEnvDemo/Droid/obj/Debug/VSACXamarin.Droid.App.xaml.g.cs
