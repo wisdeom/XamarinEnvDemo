@@ -1,7 +1,9 @@
 ﻿<Properties StartupConfiguration="{33550679-F7B2-439D-8C91-B5DC73405E3B}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Constants.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Droid/MainActivity.cs">
     <Files>
-      <File FileName="Constants.cs" Line="6" Column="10" />
+      <File FileName="Constants.cs" Line="11" Column="2" />
+      <File FileName="Services/CloudDataStore.cs" Line="15" Column="33" />
+      <File FileName="Droid/MainActivity.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
